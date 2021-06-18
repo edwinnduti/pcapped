@@ -85,7 +85,7 @@ Devices addresses:  Bluetooth adapter number 0
 In my case, I was using usb-tethering, so my active device is *usb0*
 Set in as the open device in the main.go file,line 15.
 
-###Open live capture
+#### Open live capture
 Run the main.go file as root:
 ```bash
 sudo go run main.go
